@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "This pack helps enhance visual appearance for cosmetics on the server.",
+    "pack_format": 34,
+    "supported_formats": [1, 99],
+    "min_format": 1,
+    "max_format": 99
+  }
+}
